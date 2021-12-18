@@ -1,6 +1,6 @@
 ## Hello there, my name is Nikita 👋
 
-## I'm a Data Scientist with Passion for Development and Coding
+## I'm a Junior IT Software Engineer with a background in Data Science
 
 - I have a Master's Degree in Data Science 👨‍🎓
 - I have worked as Machine Learning Engineer 🧑‍🔧
