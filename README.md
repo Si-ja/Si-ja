@@ -46,8 +46,4 @@
 
 ## Some work done on GitHub
 
-<div align="center>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Si-ja&hide=Jupyter%20Notebook&theme=synthwave)](https://github.com/Si-ja/github-readme-stats)
-
-</div>
