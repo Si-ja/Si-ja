@@ -10,6 +10,8 @@
 
 ### Languages and Tools I use:
 
+<center>
+
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 
 <img align="left" alt="R" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/>
@@ -40,10 +42,15 @@
 
 <img align="left" alt="GoDot" width="36px" src="https://img.itch.zone/aW1hZ2UyL2phbS8yOTg1NzcvNTQwMTU3NC5wbmc=/original/GH922%2B.png"/>
 
+</center>
 
 <br />
 <br />
 
 ## Some work done on GitHub
 
+<center>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Si-ja&hide=Jupyter%20Notebook&theme=synthwave)](https://github.com/Si-ja/github-readme-stats)
+
+</center>
